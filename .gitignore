@@ -1,0 +1,21 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/tests/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment variables
+.env
+
+# Local development
+local/
+*.local
+.claude/settings.local.json
+.claudeignore
+.claude
+CLAUDE.md
+
